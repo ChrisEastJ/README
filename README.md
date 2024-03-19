@@ -1,1 +1,1 @@
-I went to college for this so uh, *yeah* - I know a thing or two about programing
+I like to work on hardware and software with a focus on robotics, data logging, and automation. I write mostly Java and C/C++ with some python here and there, find out more about my projects on chriseast.dev
